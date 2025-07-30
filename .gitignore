@@ -1,0 +1,6 @@
+*.pyC
+*.SwP
+*.sqlite3
+.idea/
+.venv
+.DS_Store
